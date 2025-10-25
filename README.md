@@ -100,3 +100,25 @@ The problems are divided into three levels for structured practice:
 - Pick a problem from the list.  
 - Solve it in your preferred language (**C, Java, Python, etc.**).  
 - Save your solutions in folders like:  
+
+
+--- 
+
+## 👨‍💻 Author
+
+---
+### Adarsh Lilhare 
+
+🎓 B.Tech in Artificial Intelligence & Data Science
+
+💼 AI | Data Science | Computer Vision Enthusiast
+
+📧 [Email](adarshlilhare@example.com)
+
+🐙 [GitHub](https://github.com/AdarshVL) 
+
+🌐 [Portfolio](https://adarshlilhare.dev)
+
+🔗 [LinkedIn](https://www.linkedin.com/in/adarsh-lilhare-b98a91290/)
+
+---
