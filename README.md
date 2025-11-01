@@ -102,8 +102,7 @@ The problems are divided into three levels for structured practice:
 - Save your solutions in folders like:  
 
 
---- 
-
+---
 ## 👨‍💻 Author
 
 ---
@@ -111,7 +110,7 @@ The problems are divided into three levels for structured practice:
 
 🎓 B.Tech in Artificial Intelligence & Data Science
 
-💼 AI | Data Science | Computer Vision Enthusiast
+💼 AI & Data Science Student | 💻 Developer | 🌍 Open Source Contributor
 
 📧 [Email](adarshlilhare@example.com)
 
